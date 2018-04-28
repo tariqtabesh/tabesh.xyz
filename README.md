@@ -1,2 +1,0 @@
-# tabesh.xyz
-my-website
